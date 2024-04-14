@@ -1,3 +1,4 @@
+///–∑–∞–¥–∞–Ω–∏—è —Å–µ–º–∏–Ω–∞—Ä–∞ 3
 #include <iostream>
 #include <vector>
 #include <string>
@@ -27,9 +28,9 @@ int main() {
     intStack.push(2);
 
     try {
-        std::cout << intStack.pop() << std::endl;  // ¬˚‚Â‰ÂÚ 2
-        std::cout << intStack.pop() << std::endl;  // ¬˚‚Â‰ÂÚ 1
-        std::cout << intStack.pop() << std::endl;  // —„ÂÌÂËÛÂÚ ËÒÍÎ˛˜ÂÌËÂ, Ú‡Í Í‡Í ÒÚÂÍ ÔÛÒÚÓÈ
+        std::cout << intStack.pop() << std::endl;  // √Ç√ª√¢√•√§√•√≤ 2
+        std::cout << intStack.pop() << std::endl;  // √Ç√ª√¢√•√§√•√≤ 1
+        std::cout << intStack.pop() << std::endl;  // √ë√£√•√≠√•√∞√®√∞√≥√•√≤ √®√±√™√´√æ√∑√•√≠√®√•, √≤√†√™ √™√†√™ √±√≤√•√™ √Ø√≥√±√≤√Æ√©
     }
     catch (const std::exception& e) {
         std::cerr << "Exception caught: " << e.what() << std::endl;
@@ -40,9 +41,9 @@ int main() {
     doubleStack.push(2.718);
 
     try {
-        std::cout << doubleStack.pop() << std::endl;  // ¬˚‚Â‰ÂÚ 2.718
-        std::cout << doubleStack.pop() << std::endl;  // ¬˚‚Â‰ÂÚ 3.14
-        std::cout << doubleStack.pop() << std::endl;  // —„ÂÌÂËÛÂÚ ËÒÍÎ˛˜ÂÌËÂ, Ú‡Í Í‡Í ÒÚÂÍ ÔÛÒÚÓÈ
+        std::cout << doubleStack.pop() << std::endl;  // √Ç√ª√¢√•√§√•√≤ 2.718
+        std::cout << doubleStack.pop() << std::endl;  // √Ç√ª√¢√•√§√•√≤ 3.14
+        std::cout << doubleStack.pop() << std::endl;  // √ë√£√•√≠√•√∞√®√∞√≥√•√≤ √®√±√™√´√æ√∑√•√≠√®√•, √≤√†√™ √™√†√™ √±√≤√•√™ √Ø√≥√±√≤√Æ√©
     }
     catch (const std::exception& e) {
         std::cerr << "Exception caught: " << e.what() << std::endl;
@@ -53,9 +54,9 @@ int main() {
     stringStack.push("World");
 
     try {
-        std::cout << stringStack.pop() << std::endl;  // ¬˚‚Â‰ÂÚ "World"
-        std::cout << stringStack.pop() << std::endl;  // ¬˚‚Â‰ÂÚ "Hello"
-        std::cout << stringStack.pop() << std::endl;  // —„ÂÌÂËÛÂÚ ËÒÍÎ˛˜ÂÌËÂ, Ú‡Í Í‡Í ÒÚÂÍ ÔÛÒÚÓÈ
+        std::cout << stringStack.pop() << std::endl;  // √Ç√ª√¢√•√§√•√≤ "World"
+        std::cout << stringStack.pop() << std::endl;  // √Ç√ª√¢√•√§√•√≤ "Hello"
+        std::cout << stringStack.pop() << std::endl;  // √ë√£√•√≠√•√∞√®√∞√≥√•√≤ √®√±√™√´√æ√∑√•√≠√®√•, √≤√†√™ √™√†√™ √±√≤√•√™ √Ø√≥√±√≤√Æ√©
     }
     catch (const std::exception& e) {
         std::cerr << "Exception caught: " << e.what() << std::endl;
